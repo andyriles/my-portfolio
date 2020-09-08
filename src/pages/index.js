@@ -6,7 +6,7 @@ import SideBar from '../components/SideBar';
 
 import todoApp from '../assets/images/todoApp.jpg';
 import ExpenseTracker from '../assets/images/expenseTracker.jpg';
-import bellrCakes from '../assets/images/Bellr-cakes.jpg';
+import bellrCakes from '../assets/images/bellrCakes.jpg';
 
 import pic8 from '../assets/images/pic03.jpg';
 import Scroll from '../components/Scroll';
