@@ -6,6 +6,7 @@ import SideBar from '../components/SideBar';
 
 import todoApp from '../assets/images/todoApp.jpg';
 import ExpenseTracker from '../assets/images/expenseTracker.jpg';
+import bellrCakes from '../assets/images/Bellr-cakes.jpg';
 
 import pic8 from '../assets/images/pic03.jpg';
 import Scroll from '../components/Scroll';
@@ -77,6 +78,23 @@ const IndexPage = () => (
                 </a>
                 <header>
                   <h3>Expense tracker app</h3>
+                </header>
+              </article>
+            </div>
+            <div className="col-4 col-12-mobile">
+              <article className="item">
+                <a
+                  href="https://bellr-cakes.netlify.app/"
+                  target="_blank"
+                  className="image fit"
+                >
+                  <img
+                    src={bellrCakes}
+                    alt="An e-commerce site for ordering cakes"
+                  />
+                </a>
+                <header>
+                  <h3>Bellr Cakes & more</h3>
                 </header>
               </article>
             </div>
