@@ -27,7 +27,7 @@ const IndexPage = () => (
         <div className="container">
           <header>
             <h2 className="alt">
-              Hi! I'm <strong>Andrew Efurhievwe</strong>
+              Hi! I'm <strong>Andrew Efurhievwe. </strong>
               <br />A Web developer
             </h2>
             <p>I've made few things. Check it out!</p>
@@ -108,9 +108,9 @@ const IndexPage = () => (
             <h2>About Me</h2>
           </header>
 
-          <a href="/#" className="image featured">
+          {/*  <a href="/#" className="image featured">
             <img src={pic8} alt="" />
-          </a>
+          </a> */}
 
           <p>
             I am a React developer with a passion for creating beautiful
