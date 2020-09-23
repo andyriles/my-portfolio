@@ -116,9 +116,9 @@ const IndexPage = () => (
             I am a React developer with a passion for creating beautiful
             websites. Responsive, speedy websites make me happy. I'm a big fan
             of the JAMstack and spend most of my time working with React and
-            GatsbyJS. I dabble in a little bit of ASP.NET C# and node I'm a
-            self-taught developer so in my spare moments I like to play some
-            call of duty and blitz chess Feel free to get in touch.
+            GatsbyJS. I dabble in a little bit of ASP.NET C# and node. In my
+            spare moments, I like to play call of duty and blitz chess. Feel
+            free to get in touch.
           </p>
         </div>
       </section>
@@ -131,7 +131,7 @@ const IndexPage = () => (
 
           <p>Feel free to send me a message</p>
 
-          <form method="post" action="mailto:andyriles22@gmail.com">
+          <form method="post" action="https://formspree.io/xvovolpz">
             <div className="row">
               <div className="col-6 col-12-mobile">
                 <input type="text" name="name" placeholder="Name" />
