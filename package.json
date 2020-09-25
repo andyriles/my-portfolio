@@ -42,9 +42,5 @@
     "gatsby-starter",
     "gatsby-starter-prologue"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-prologue/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-prologue#readme"
+  "license": "MIT"
 }

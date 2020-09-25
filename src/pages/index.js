@@ -7,8 +7,8 @@ import SideBar from '../components/SideBar';
 import todoApp from '../assets/images/todoApp.jpg';
 import ExpenseTracker from '../assets/images/expenseTracker.jpg';
 import bellrCakes from '../assets/images/bellrCakes.jpg';
+import Coffee from '../assets/images/Coffee.jpg';
 
-import pic8 from '../assets/images/pic03.jpg';
 import Scroll from '../components/Scroll';
 
 const sections = [
@@ -95,6 +95,18 @@ const IndexPage = () => (
                 </a>
                 <header>
                   <h3>Bellr Cakes & more</h3>
+                </header>
+              </article>
+              <article className="item">
+                <a
+                  href="https://andys-coffee-delight.netlify.app/"
+                  target="_blank"
+                  className="image fit"
+                >
+                  <img src={Coffee} alt="An online coffee shop" />
+                </a>
+                <header>
+                  <h3>Andy's coffee delight</h3>
                 </header>
               </article>
             </div>
